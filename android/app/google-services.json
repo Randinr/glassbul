@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851487978477",
+    "project_id": "glasswol",
+    "storage_bucket": "glasswol.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851487978477:android:c7e10ee1900f28ed2c2de4",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuql98l--eXCIs2RP_f7yfzK54h6vpXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851487978477:android:fab3550a97e142782c2de4",
+        "android_client_info": {
+          "package_name": "glasswol.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuql98l--eXCIs2RP_f7yfzK54h6vpXyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
